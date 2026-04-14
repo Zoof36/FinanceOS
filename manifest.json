@@ -1,0 +1,14 @@
+{
+  "name": "QTVIS Apartments — Business OS",
+  "short_name": "QTVIS OS",
+  "description": "Business management system for QTVIS Apartments",
+  "start_url": "./",
+  "display": "standalone",
+  "orientation": "any",
+  "background_color": "#0d0d0d",
+  "theme_color": "#c41e3a",
+  "icons": [
+    { "src": "./icon.svg", "sizes": "any", "type": "image/svg+xml", "purpose": "any maskable" }
+  ],
+  "categories": ["business", "finance", "productivity"]
+}

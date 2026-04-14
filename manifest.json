@@ -1,7 +1,7 @@
 {
-  "name": "QTVIS Apartments — Business OS",
-  "short_name": "QTVIS OS",
-  "description": "Business management system for QTVIS Apartments",
+  "name": "MY OS",
+  "short_name": "MY OS",
+  "description": "My personal financial systems.",
   "start_url": "./",
   "display": "standalone",
   "orientation": "any",

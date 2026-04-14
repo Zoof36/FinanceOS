@@ -1,7 +1,7 @@
 /* QTVIS Business OS — Service Worker v1.0
    Strategy: cache-first, network-update-in-background
    Bump CACHE_VER whenever you push an update to GitHub */
-var CACHE_VER = 'qtvis-os-v2.2';
+var CACHE_VER = 'my-os-v1.0';
 var SHELL = ['./', './manifest.json', './sw.js', './icon.svg'];
 
 self.addEventListener('install', function(e) {
